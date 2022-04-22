@@ -17,4 +17,4 @@
 ## Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=geertjanknapen1&show_icons=true&theme=tokyonight)](https://github.com/geertjanknapen1)
-[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username= geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
