@@ -14,8 +14,7 @@
 - Computer Software and Media Applications | 2017 - 2020
 <!-- EDUCATIONS-LIST:END -->
 
-## GitHub Statistics
+## Stats
 
-![geertjanknapen1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=geertjanknapen1&count_private=true&include_all_commits=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geertjanknapen1&layout=compact)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=geertjanknapen1&show_icons=true&theme=tokyonight)](https://github.com/geertjanknapen1)
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username= geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
