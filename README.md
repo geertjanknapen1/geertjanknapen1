@@ -20,3 +20,7 @@
 [![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
 
 #### (Stats are low because I mostly use Bitbucket)
+
+## Stackoverflow:
+
+<a href="https://stackexchange.com/users/13351244"><img src="https://stackoverflow.com/users/flair/9636400.png?theme=dark" width="208" height="58" alt="profile for geertjanknapen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for geertjanknapen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
