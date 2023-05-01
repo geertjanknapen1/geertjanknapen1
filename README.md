@@ -4,7 +4,7 @@
 
 <!-- EDUCATIONS-LIST:START -->
 - Junior Webdeveloper - Bertels Holland B.V. | 2022 - PRESENT
-- Wordpress Developer - RIF-IT Services | 2017 - PRESENT
+- Wordpress Developer - RIF-IT Services | 2017 - 2022
 <!-- EDUCATIONS-LIST:END -->
 
 ## Educations
