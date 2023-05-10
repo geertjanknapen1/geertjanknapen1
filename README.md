@@ -16,10 +16,12 @@
 
 ## Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=geertjanknapen1&show_icons=true&theme=tokyonight)](https://github.com/geertjanknapen1)
-[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
+[![Most used programming languages (according to Github)](https://github-readme-stats.vercel.app/api/top-langs/?username=geertjanknapen1&layout=compact&theme=tokyonight)](https://github.com/geertjanknapen1)
 
-#### (Stats are low because I mostly use Bitbucket)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=geertjanknapen1&show_icons=true&theme=tokyonight)](https://github.com/geertjanknapen1)
+
+
+#### (Professionaly, I mostly use Bitbucket)
 
 ## Stackoverflow:
 
