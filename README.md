@@ -25,6 +25,11 @@
 
 #### (Professionaly, I mostly use Bitbucket)
 
+## Connect with me 
+<a href="https://stackoverflow.com/users/9636400/geertjanknapen" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
 ## Stackoverflow:
 
 <a href="https://stackexchange.com/users/13351244"><img src="https://stackoverflow.com/users/flair/9636400.png?theme=dark" width="208" height="58" alt="profile for geertjanknapen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for geertjanknapen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
