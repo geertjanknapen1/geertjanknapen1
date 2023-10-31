@@ -9,7 +9,8 @@
 ## Work experience
 
 <!-- EDUCATIONS-LIST:START -->
-- Junior Webdeveloper - Bertels Holland B.V. | 2022 - PRESENT
+- Webdeveloper - Bertels Holland B.V. | Sept 2023 - PRESENT
+- Junior Webdeveloper - Bertels Holland B.V. | 2022 - Aug 2023
 - Wordpress Developer - RIF-IT Services | 2017 - 2022
 <!-- EDUCATIONS-LIST:END -->
 
