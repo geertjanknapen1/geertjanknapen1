@@ -32,4 +32,6 @@
 <a href="https://stackoverflow.com/users/9636400/geertjanknapen" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+
+
 [LinkedIn](https://www.linkedin.com/in/geert-jan-knapen/)
