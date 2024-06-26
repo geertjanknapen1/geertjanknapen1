@@ -7,7 +7,7 @@
 ## Werkervaring
 
 <!-- WORK-EXPERIENCE-LIST:START -->
-- Webdeveloper - Bertels Holland B.V. | Sept 2023 - HEDEN
+- Medior Webdeveloper - Bertels Holland B.V. | Sept 2023 - HEDEN
 - Junior Webdeveloper - Bertels Holland B.V. | 2022 - Aug 2023
 - Wordpress Developer - RIF-IT Services | 2017 - 2022
 <!-- WORK-EXPERIENCE-LIST:END -->
