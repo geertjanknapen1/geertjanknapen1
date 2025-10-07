@@ -9,7 +9,8 @@
 ## Werkervaring
 
 <!-- WORK-EXPERIENCE-LIST:START -->
-- Webdeveloper - Bertels Holland B.V. | Sept 2023 - HEDEN
+- Backend developer & Customer Success specialist - GetNoticed B.V. | Apr 2025 - HEDEN
+- Webdeveloper - Bertels Holland B.V. | Sept 2023 - Apr 2025
 - Junior Webdeveloper - Bertels Holland B.V. | 2022 - Aug 2023
 - Wordpress Developer - RIF-IT Services | 2017 - 2022
 <!-- WORK-EXPERIENCE-LIST:END -->
